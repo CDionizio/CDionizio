@@ -1,7 +1,7 @@
 public class ExemploFor {
     public static void main(String[] args) {
-        for( int carneirinhos = 1; carneirinhos <= 20; carneirinhos ++ ){
-            System.out.println("Contando carneiros " + carneirinhos);
+        for( int soma = 0; soma <= 10; soma ++ ){
+            System.out.println("A soma de " + soma + " 1 " + soma);
 
         }
         System.out.println("------------------------------");
